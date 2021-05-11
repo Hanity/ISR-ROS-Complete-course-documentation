@@ -72,7 +72,7 @@ The task is creating 2 nodes, the first publishes a value (rpm), and the second 
 The detailed description of this mini project can be found in the pdf named `ROS - Pub-Sub-Mini-Project`
 
    ######  Codes
-   The codes for this project are within the files **task1-pub.py** and **task1-sub-pub.py**.
+   The codes for this project are within the files **rpm-pub.py** and **rpm-sub-pub.py**.
    
 #   ROS Parameter Server
 It is essentially a centralised space to store variables often used and generally linked to robots' physical attributes. 
