@@ -8,6 +8,8 @@ please visit: http://wiki.ros.org/ for more detailed information
 
 This folder contains documentation for a ISR course taught in Leeds Beckett University.The course is taught by Dr.  Abiodun Yusuf. 
 
+The pdfs in this repository are the tasks and projects done in this course so the solution to the problem is stated below
+
 The folder structure is as follows :
 
 #   ROS Noetic Installation
